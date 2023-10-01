@@ -1,0 +1,1 @@
+This repository combines the LSTM model with the compilation principle to solve the problem of code similarity detection and support a variety of code modification detection.This repository combines the LSTM model with the compilation principle to solve the problem of code similarity detection and support a variety of code modification detection.
